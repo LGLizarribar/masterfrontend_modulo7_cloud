@@ -30,4 +30,4 @@ jobs:
         run: npm run build
 
       - name: Deploy
-        run: npm run deploy -- -r git@github.com:masterfrontend_modulo7_cloud.git
+        run: npm run deploy -- -r git@github.com:LGLizarribar/masterfrontend_modulo7_cloud.git
